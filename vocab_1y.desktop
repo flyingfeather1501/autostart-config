@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Pop random vocab every 30m
+Exec=loop-command 30m 0 pop-random-notification /home/moonlightf/git/Sudocabulary/words.txt /home/moonlightf/git/Sudocabulary/meaning.txt
+Terminal=false
+Type=Application

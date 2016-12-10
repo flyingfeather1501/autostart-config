@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=randomwallpaper
+Exec=randomwallpaper -t 5m
+Terminal=false
+Type=Application
