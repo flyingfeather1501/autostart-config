@@ -1,5 +1,0 @@
-[Desktop Entry]
-Name=Pop a random vocabulary about every 30 days
-Exec=loop-command 6h 32494 pop-random-notification /home/moonlightf/git/text-files/vocab-word-30d.txt /home/moonlightf/git/text-files/vocab-meaning-30d.txt
-Terminal=false
-Type=Application
