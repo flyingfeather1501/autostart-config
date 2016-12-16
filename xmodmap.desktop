@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=source xmodrc for xmodmap
-Exec=source ~/.xmodrc
+Name=execute .xmodrc
+Exec=bash ~/.xmodrc
 Terminal=false
 Type=Application

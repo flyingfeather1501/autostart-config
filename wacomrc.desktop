@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=source wacomrc
-Exec=source ~/.wacomrc
+Name=execute wacomrc
+Exec=bash ~/.wacomrc
 Terminal=false
 Type=Application
